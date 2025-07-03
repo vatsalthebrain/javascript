@@ -6,6 +6,7 @@ let name = "vatsal"
 let age = 20
 let isLoggedin = false
 
+//number
 //bigint use for large numbers
 //null -> standalone value
 // undefined -> value not defined yet
