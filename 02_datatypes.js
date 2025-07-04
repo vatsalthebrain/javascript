@@ -16,3 +16,19 @@ console.log(typeof "vatsal") // used to get the type of variable wheather it is 
 
 //null->object
 //undefined->undefined
+
+// primitive : strings , number , boolean , null , undefined(variable is defined but value is not defined) , symbol->used to give different identity , bigint 
+
+// non-primitive(reference) : array , objects , functions
+
+const bigNumber = 3657865258958654365743654n
+
+const heroes = ["ironman","spiderman"]
+let obj = {
+    name : "vatsal",
+    age : 12,
+}
+
+const myFunction = function(){
+    console.log("hello");
+}

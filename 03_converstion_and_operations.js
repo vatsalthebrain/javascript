@@ -15,3 +15,14 @@ console.log(typeof valueInNumber);
 // 0 -> false
 // " " -> fasle
 // "vatsal" -> true
+
+// ********now operations ***********
+
+let value = 3
+let negvalue = -value
+console.log(negvalue)
+
+let str1 = "vatsal"
+let str2 = " arora"
+let str3 = str1 + str2
+console.log(str3)
